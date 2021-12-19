@@ -52,6 +52,15 @@ A compound of development **(Dev)** and operations **(Ops)**, DevOps is the unio
 - Improved Collaboration
 - Security.
 
+## Technical challenges of DevOps
+
+- Moving from Traditional Infrastructure to Microservices
+- Integrating Tools of Different Domains
+- Changing Well Defined Processes to More Efficient Ones
+- Separate Tools Set for Dev and Ops Team
+- Adoption of New Tools
+- Resistance to Change 
+
 
 # DevOps Practices
 
