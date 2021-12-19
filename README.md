@@ -74,25 +74,25 @@ A compound of development **(Dev)** and operations **(Ops)**, DevOps is the unio
 # DevOps tools
 
 - Version Control tools
- - git
- - github
- - gitlab
- - bitbucket
+  - git
+  - github
+  - gitlab
+  - bitbucket
 
 - Container Managemnet tools
- - Docker
- - Kubenetes
+  - Docker
+  - Kubenetes
 
 - Configuration Management tools
- - Ansible
- - Chef
- - Puppet
+  - Ansible
+  - Chef
+  - Puppet
 
 - CI / CD deployement tools
- - Jenkins
+  - Jenkins
 
 - Monitoring tools
- - Prometheus
- - Grafana
- - splunk
+  - Prometheus
+  - Grafana
+  - splunk
 
