@@ -70,3 +70,29 @@ A compound of development **(Dev)** and operations **(Ops)**, DevOps is the unio
 - Infrastructure as Code
 - Monitoring and Logging
 - Communication and Collaboration
+
+# DevOps tools
+
+- Version Control tools
+ - git
+ - github
+ - gitlab
+ - bitbucket
+
+- Container Managemnet tools
+ - Docker
+ - Kubenetes
+
+- Configuration Management tools
+ - Ansible
+ - Chef
+ - Puppet
+
+- CI / CD deployement tools
+ - Jenkins
+
+- Monitoring tools
+ - Prometheus
+ - Grafana
+ - splunk
+
